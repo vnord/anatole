@@ -37,7 +37,7 @@ Anatole's aims to be minimalistic and sleek, but still brings some great functio
 ## Preview the exampleSite
 
 ```shell
-git clone https://github.com/lxndrblz/anatole.git anatole
+git clone https://github.com/vnord/anatole.git anatole
 cd anatole/exampleSite
 hugo server --themesDir ../..
 ```
