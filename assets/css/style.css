@@ -422,11 +422,11 @@ a:active {
 
 .post .post-footer .meta .info .date {
     margin-right: 10px;
-    margin-left: 5px
+    margin-left: 0px
 }
 
 .info {
-    margin: 1em;
+    margin: 0em;
 }
 
 .info span {
