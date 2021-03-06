@@ -911,7 +911,8 @@ print {
         /* z-index: 3; */
         /* background-color: var(--bg-color); */
         /* height: 60px; */
-        border-bottom: 0px solid var(--border-color);
+	height: 40px;
+        border-bottom: 1px solid var(--border-color);
     }
 
     /* .page-top .nav { */
@@ -983,9 +984,13 @@ print {
     /*     top: calc(50% + 4px); */
     /* } */
 
-    /* .theme-switch-item { */
-    /*     float: none; */
-    /* } */
+    .theme-switch-item {
+        /* float: none; */
+	float: right;
+	font-size: 1.5em;
+	margin-top: -3px;
+	margin-right: -3px;
+    }
 
     .list-with-title .listing .listing-post .post-time {
         max-width: 20%;
