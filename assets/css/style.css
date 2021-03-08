@@ -357,6 +357,18 @@ a:active {
     color: var(--heading-color);
 }
 
+.post h1 {
+  font-size: 23px;
+}
+
+.post h2 {
+  font-size: 18px;
+}
+
+.post h3 {
+  font-size: 14px;
+}
+
 .post .post-title h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
